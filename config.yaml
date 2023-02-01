@@ -7,25 +7,28 @@ menu:
   main:
     - name: Om oss
       url: /om-oss
-      weight: 10
+      weight: 1
     - name: Nyheter
       url: /nyheter
-      weight: 20
+      weight: 2
     - name: Priser
       url: /priser
-      weight: 30
+      weight: 3
+    - name: Terminliste
+      url: /terminliste
+      weight: 4
     - name: Kontakt
       url: /kontakt
-      weight: 40
+      weight: 5
     - name: Kart
       url: /kart
-      weight: 50
+      weight: 6
     - name: Lenker
       url: /lenker
-      weight: 60
+      weight: 7
     - name: Søk
       url: /søk
-      weight: 90
+      weight: 8
 params:
   googleMapsKey: AIzaSyDpVZFx5Lmh9fYSlm7hCMDhylB-9Cbnl_M
   defaultTheme: auto
