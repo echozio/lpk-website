@@ -35,6 +35,9 @@ params:
   googleMapsKey: AIzaSyDpVZFx5Lmh9fYSlm7hCMDhylB-9Cbnl_M
   defaultTheme: auto
   disableThemeToggle: true
+  homePostListTitle:
+    title: Siste nytt
+    url: /nyheter
   profileMode:
     enabled: true
     title: Lillehammer Pistolklubb
