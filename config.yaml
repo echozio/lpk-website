@@ -42,6 +42,14 @@ params:
   socialIcons:
     - name: facebook
       url: https://www.facebook.com/groups/247933992318641
+  assets:
+    favicon: images/icon.png
+    favicon16x16: images/icon.png
+    favicon32x32: images/icon.png
+    apple_touch_icon: images/icon.png
+    safari_pinned_tab: images/icon.png
+    theme_color: '#ffffff'
+    msapplication_TileColor: '#ffffff'
 markup:
   goldmark:
     renderer:
