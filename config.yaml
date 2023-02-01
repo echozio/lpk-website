@@ -20,6 +20,9 @@ menu:
     - name: Kart
       url: /kart
       weight: 50
+    - name: Lenker
+      url: /lenker
+      weight: 60
     - name: Søk
       url: /søk
       weight: 90
