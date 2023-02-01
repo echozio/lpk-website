@@ -31,6 +31,8 @@ menu:
       url: /søk
       weight: 8
 params:
+  label:
+    icon: images/icon.png
   dateFormat: :date_long
   googleMapsKey: AIzaSyDpVZFx5Lmh9fYSlm7hCMDhylB-9Cbnl_M
   defaultTheme: auto
