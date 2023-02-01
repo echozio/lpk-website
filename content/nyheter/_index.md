@@ -1,0 +1,4 @@
+---
+title: Nyheter
+layout: archive
+---

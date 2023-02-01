@@ -1,0 +1,33 @@
+- id: prev_page
+  translation: Forrige
+
+- id: next_page
+  translation: Neste
+
+- id: read_time
+  translation:
+    one: "1 minutt"
+    other: "{{ .Count }} minutter"
+
+- id: words
+  translation:
+    one: ord
+    other: "{{ .Count }} ord"
+
+- id: toc
+  translation: Innhold
+
+- id: translations
+  translation: Oversettelser
+
+- id: home
+  translation: Hjem
+
+- id: edit_post
+  translation: Rediger
+
+- id: code_copy
+  translation: kopier
+
+- id: code_copied
+  translation: kopiert

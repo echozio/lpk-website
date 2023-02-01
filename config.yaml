@@ -1,0 +1,47 @@
+baseURL: https://lpk.no
+languageCode: nb-no
+title: Lillehammer Pistolklubb
+theme: papermod
+pluralizeListTitles: false
+menu:
+  main:
+    - name: Om oss
+      url: /om-oss
+      weight: 10
+    - name: Nyheter
+      url: /nyheter
+      weight: 20
+    - name: Priser
+      url: /priser
+      weight: 30
+    - name: Kontakt
+      url: /kontakt
+      weight: 40
+    - name: Kart
+      url: /kart
+      weight: 50
+    - name: Søk
+      url: /søk
+      weight: 90
+params:
+  googleMapsKey: AIzaSyDpVZFx5Lmh9fYSlm7hCMDhylB-9Cbnl_M
+  defaultTheme: auto
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: Lillehammer Pistolklubb
+    imageUrl: logo.png
+    subtitle: |
+      Stiftet 9. oktober 1951
+  socialIcons:
+    - name: facebook
+      url: https://www.facebook.com/groups/247933992318641
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

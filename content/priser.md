@@ -1,0 +1,13 @@
+---
+title: Priser
+---
+
+|                                                   |           |
+| ---                                               | --:       |
+| Introduksjonskurs                                 | kr 1000,- |
+| Halleie pr. kveld                                 | kr 50,-   |
+| Klippekort (dekker halleie for 10 kvelder)        | kr 450,-  |
+| Ammunisjon (50 stk. CCI Standard Velocity .22 LR) | kr 75,-   |
+| Medlemskontigent pr. år                           | kr 950,-  |
+
+Bruk av utendørsbanen i Hovemoen er kostnadsfritt for alle våre medlemmer.
