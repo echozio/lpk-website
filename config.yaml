@@ -3,6 +3,7 @@ languageCode: nb-no
 title: Lillehammer Pistolklubb
 theme: papermod
 pluralizeListTitles: false
+defaultContentLanguage: nb
 menu:
   main:
     - name: Om oss
@@ -30,6 +31,7 @@ menu:
       url: /søk
       weight: 8
 params:
+  dateFormat: :date_long
   googleMapsKey: AIzaSyDpVZFx5Lmh9fYSlm7hCMDhylB-9Cbnl_M
   defaultTheme: auto
   disableThemeToggle: true
