@@ -30,7 +30,7 @@ params:
   profileMode:
     enabled: true
     title: Lillehammer Pistolklubb
-    imageUrl: logo.png
+    imageUrl: images/logo.png
     subtitle: |
       Stiftet 9. oktober 1951
   socialIcons:
