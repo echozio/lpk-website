@@ -7,108 +7,108 @@
 }
 
 .header #menu-capture {
-	display: none;
+  display: none;
 }
 
 @media (max-width: 600px) {
-	.header #menu-button:checked ~ #menu-capture {
-		display: block;
-		position: fixed;
-		top: 0px;
-		left: 0px;
-		height: 100%;
-		width: 100%;
-		z-index: 1;
-	}
+  .header #menu-button:checked ~ #menu-capture {
+    display: block;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+  }
 
-	.header #menu-icon {
-  	cursor: pointer;
-  	display: inline-block;
-  	float: right;
-  	margin-left: auto;
-  	padding: calc((var(--header-height) - 2px) / 2) var(--gap);
-  	padding-left: 0px;
-  	position: relative;
-  	user-select: none;
-	}
+  .header #menu-icon {
+    cursor: pointer;
+    display: inline-block;
+    float: right;
+    margin-left: auto;
+    padding: calc((var(--header-height) - 2px) / 2) var(--gap);
+    padding-left: 0px;
+    position: relative;
+    user-select: none;
+  }
 
-	.header #menu-icon span {
-  	background: var(--primary);
-  	display: block;
-  	height: 2px;
-  	position: relative;
-  	transition: background .1s ease-out;
-  	width: 18px;
-	}
+  .header #menu-icon span {
+    background: var(--primary);
+    display: block;
+    height: 2px;
+    position: relative;
+    transition: background .1s ease-out;
+    width: 18px;
+  }
 
-	.header #menu-icon span:before,
-	.header #menu-icon span:after {
-  	background: var(--primary);
-  	content: '';
-  	display: block;
-  	height: 100%;
-  	position: absolute;
-  	transition: all .1s ease-out;
-  	width: 100%;
-	}
+  .header #menu-icon span:before,
+  .header #menu-icon span:after {
+    background: var(--primary);
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    transition: all .1s ease-out;
+    width: 100%;
+  }
 
-	.header #menu-icon span:before {
-  	top: 5px;
-	}
+  .header #menu-icon span:before {
+    top: 5px;
+  }
 
-	.header #menu-icon span:after {
-  	top: -5px;
-	}
+  .header #menu-icon span:after {
+    top: -5px;
+  }
 
-	.header #menu-button:checked ~ #menu {
-		transform: scaleY(1);
+  .header #menu-button:checked ~ #menu {
+    transform: scaleY(1);
   }
 
   .header #menu {
-  	flex-direction: column;
-  	padding: 0px;
-  	align-items: end;
-  	position: absolute;
-  	top: var(--header-height);
-  	right: 0px;
-  	background: var(--entry);
-  	border-radius: var(--radius);
-		z-index: 2;
-		clear: both;
-		border: 1px solid var(--border);
-		transform: scaleY(0);
-		transform-origin: top;
-		transition: transform .1s ease-out;
-	}
+    flex-direction: column;
+    padding: 0px;
+    align-items: end;
+    position: absolute;
+    top: var(--header-height);
+    right: 0px;
+    background: var(--entry);
+    border-radius: var(--radius);
+    z-index: 2;
+    clear: both;
+    border: 1px solid var(--border);
+    transform: scaleY(0);
+    transform-origin: top;
+    transition: transform .1s ease-out;
+  }
 
-	.header #menu li {
-		line-height: initial;
-		margin-inline-end: var(--gap);
-		margin-top: var(--gap);
-	}
+  .header #menu li {
+    line-height: initial;
+    margin-inline-end: var(--gap);
+    margin-top: var(--gap);
+  }
 
-	.header #menu li:last-child{
-		margin-bottom: var(--gap);
-	}
+  .header #menu li:last-child{
+    margin-bottom: var(--gap);
+  }
 
-	.header #menu li:last {
-		margin: var(--gap);
-	}
+  .header #menu li:last {
+    margin: var(--gap);
+  }
 
-	.header #menu-button:checked ~ #menu-icon span {
-  	background: transparent;
-	}
+  .header #menu-button:checked ~ #menu-icon span {
+    background: transparent;
+  }
 
-	.header #menu-button:checked ~ #menu-icon span:before {
-  	transform: rotate(-45deg);
-	}
+  .header #menu-button:checked ~ #menu-icon span:before {
+    transform: rotate(-45deg);
+  }
 
-	.header #menu-button:checked ~ #menu-icon span:after {
-  	transform: rotate(45deg);
-	}
+  .header #menu-button:checked ~ #menu-icon span:after {
+    transform: rotate(45deg);
+  }
 
-	.header #menu-button:checked ~ #menu-icon:not(.steps) span:before,
-	.header #menu-button:checked ~ #menu-icon:not(.steps) span:after {
-  	top: 0;
-	}
+  .header #menu-button:checked ~ #menu-icon:not(.steps) span:before,
+  .header #menu-button:checked ~ #menu-icon:not(.steps) span:after {
+    top: 0;
+  }
 }
