@@ -1,5 +1,7 @@
 ---
 title: Terminliste
+showToc: true
+tocOpen: true
 ---
 
 ## Vår 2023
@@ -55,3 +57,22 @@ title: Terminliste
 
 ### Mai
 Dugnad i Hovemoen
+
+## Offentlige helligdager 2023
+På disse dagene skal det ikke skytes på utebanen i Hovemoen:
+
+|                      |                       |
+| ---                  | ---                   |
+| Søndag 1. januar     | 1. nyttårsdag         |
+| Søndag 2. april      | Palmesøndag           |
+| Torsdag 6. april     | Skjærtorsdag          |
+| Fredag 7. april      | Langfredag            |
+| Søndag 9. april      | 1. påskedag           |
+| Mandag 10. april     | 2. påskedag           |
+| Mandag 1. mai        | Offentlig høytidsdag  |
+| Onsdag 17. mai       | Grunnlovsdag          |
+| Torsdag 18. mai      | Kristi Himmelfartsdag |
+| Søndag 28. mai       | 1. pinsedag           |
+| Mandag 29. mai       | 2. pinsedag           |
+| Mandag 25. desember  | 1. juledag            |
+| Tirsdag 26. desember | 2. juledag            |
