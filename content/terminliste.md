@@ -8,51 +8,51 @@ tocOpen: true
 ### Januar
 | Dag     | Dato | Program             |
 | ---     | ---  | ---                 |
-| Mandag  | 2    | Trening Standard    |
-| Torsdag | 5    | VC Standard         |
-| Mandag  | 9    | Trening Hurtig      |
-| Torsdag | 12   | VC Hurtig           |
-| Mandag  | 16   | Trening Revolvercup |
-| Tordag  | 19   | VC Revolvercup      |
-| Mandag  | 23   | Trening VM / Fri    |
+| Mandag  | 2    | Trening standard    |
+| Torsdag | 5    | VC standard         |
+| Mandag  | 9    | Trening hurtig      |
+| Torsdag | 12   | VC hurtig           |
+| Mandag  | 16   | Trening revolvercup |
+| Tordag  | 19   | VC revolvercup      |
+| Mandag  | 23   | Trening VM / fri    |
 | Torsdag | 26   | VC VM               |
-| Mandag  | 30   | Trening Standard    |
+| Mandag  | 30   | Trening standard    |
 
 ### Februar
 | Dag     | Dato | Program             |
 | ---     | ---  | ---                 |
-| Torsdag | 2    | VC Standard         |
-| Mandag  | 6    | Trening Hurtig      |
-| Torsdag | 9    | VC Hurtig           |
-| Mandag  | 13   | Trening Revolvercup |
-| Torsdag | 16   | VC Revolvercup      |
-| Mandag  | 20   | Trening VM / Fri    |
+| Torsdag | 2    | VC standard         |
+| Mandag  | 6    | Trening hurtig      |
+| Torsdag | 9    | VC hurtig           |
+| Mandag  | 13   | Trening revolvercup |
+| Torsdag | 16   | VC revolvercup      |
+| Mandag  | 20   | Trening VM / fri    |
 | Torsdag | 23   | VC VM               |
-| Mandag  | 27   | Trening Standard    |
+| Mandag  | 27   | Trening standard    |
 
 ### Mars
 | Dag     | Dato | Program             |
 | ---     | ---  | ---                 |
-| Torsdag | 2    | VC Standard         |
-| Mandag  | 6    | Trening Hurtig      |
-| Tordag  | 9    | VC Hurtig           |
-| Mandag  | 13   | Trening Revolvercup |
-| Torsdag | 16   | VC Revolvercup      |
-| Mandag  | 20   | Trening VM / Fri    |
+| Torsdag | 2    | VC standard         |
+| Mandag  | 6    | Trening hurtig      |
+| Tordag  | 9    | VC hurtig           |
+| Mandag  | 13   | Trening revolvercup |
+| Torsdag | 16   | VC revolvercup      |
+| Mandag  | 20   | Trening VM / fri    |
 | Torsdag | 23   | VC VM               |
-| Mandag  | 27   | Trening Standard    |
-| Torsdag | 30   | VC Standard         |
+| Mandag  | 27   | Trening standard    |
+| Torsdag | 30   | VC standard         |
 
 ### April
 | Dag     | Dato | Program               |
 | ---     | ---  | ---                   |
-| Mandag  | 3    | Trening Hurtig        |
-| Torsdag | 6    | Påske - Ingen skyting |
-| Mandag  | 10   | Påske - Ingen skyting |
-| Torsdag | 13   | VC Hurtig             |
-| Mandag  | 17   | Trening Revolvercup   |
-| Torsdag | 20   | VC Revolvercup        |
-| Mandag  | 24   | NAIS / Fri            |
+| Mandag  | 3    | Trening hurtig        |
+| Torsdag | 6    | Påske - ingen skyting |
+| Mandag  | 10   | Påske - ingen skyting |
+| Torsdag | 13   | VC hurtig             |
+| Mandag  | 17   | Trening revolvercup   |
+| Torsdag | 20   | VC revolvercup        |
+| Mandag  | 24   | NAIS / fri            |
 | Torsdag | 27   | NAIS                  |
 
 ### Mai
