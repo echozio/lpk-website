@@ -21,8 +21,8 @@ til å kose oss etter skyting.
 [Kart og veibeskrivelse kan du finne her](/kart). Inngangen er på nordenden av den lange grå
 bygningen. Nærmeste busstopp er **Fåberg menighetshus**, og ruten heter **B1**.
 
-På sommeren har vi et enklere opplegg. Da holder vi til på en enkel bane i Hovemoen. Denne har også
-10 standplasser, og mulighet for skyting på avstander opp til 25 meter. Der skyter vi noen
+På sommeren har vi et enklere opplegg. Da holder vi til på en enkel bane i Hovemoen. Denne har 15
+standplasser, og mulighet for skyting på alle avstander opp til 25 meter. Der skyter vi noen
 klubbkonkurranser vår og sommer, samt trener feltskyting som er klubbens store interesse i
 sommerhalvåret. Her kan vi stille opp med våpen og utstyr for nybegynnere etter behov og interesse.
 
