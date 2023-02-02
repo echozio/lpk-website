@@ -121,6 +121,7 @@
         </div>
         {{- $currentPage := . }}
         <input id="menu-button" type="checkbox"/>
+        <label id="menu-capture" for="menu-button"></label>
         <label id="menu-icon" for="menu-button"><span></span></label>
         <ul id="menu">
             {{- range site.Menus.main }}

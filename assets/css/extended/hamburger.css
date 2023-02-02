@@ -6,7 +6,21 @@
   display: none;
 }
 
+.header #menu-capture {
+	display: none;
+}
+
 @media (max-width: 600px) {
+	.header #menu-button:checked ~ #menu-capture {
+		display: block;
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		height: 100%;
+		width: 100%;
+		z-index: 1;
+	}
+
 	.header #menu-icon {
   	cursor: pointer;
   	display: inline-block;
@@ -59,7 +73,7 @@
   	right: 0px;
   	background: var(--entry);
   	border-radius: var(--radius);
-  	z-index: 1;
+		z-index: 2;
 		clear: both;
 		border: 1px solid var(--border);
 		transform: scaleY(0);
