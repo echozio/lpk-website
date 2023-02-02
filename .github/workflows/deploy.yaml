@@ -1,0 +1,19 @@
+name: Deploy website
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+      - uses: jakejarvis/hugo-build-action@v0.105.0
+      - shell: bash
+        run: |
+          apt-get update && apt-get install -y lftp
+          lftp -u "${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }}" "${{ secrets.FTP_HOST }}" -e "mirror -ceRX '.*' ./public . ; quit"
