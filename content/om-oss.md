@@ -1,5 +1,7 @@
 ---
 title: Om oss
+cover:
+  image: images/founded.jpg
 ---
 
 Lillehammer pistolklubb ble etablert i 1951 og har nå i underkant av 200 medlemmer. I vintersesongen
