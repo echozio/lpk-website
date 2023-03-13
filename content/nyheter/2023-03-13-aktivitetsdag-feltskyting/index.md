@@ -10,3 +10,5 @@ Nå er tida inne for å lufte de våpnene som ligger nederst i skuffa eller inne
 5 standplasser — 30 eller 25 skudd pr. våpen etter type og kaliber.
 
 Vel møtt!
+
+[Kart og veibeskrivelse finner du her](/kart/#%C3%B8stre-gausdal-skytterlags-skytebane)
