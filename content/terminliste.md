@@ -4,7 +4,7 @@ showToc: true
 tocOpen: true
 ---
 
-## Vår 2023
+## 2023
 ### Januar
 | Dag     | Dato | Program             |
 | ---     | ---  | ---                 |
@@ -56,7 +56,30 @@ tocOpen: true
 | Torsdag | 27   | NAIS                  |
 
 ### Mai
-Dugnad i Hovemoen
+| Dag     | Dato | Program                         |
+| ---     | ---  | ---                             |
+| Torsdag | 25   | Dugnad og norgesfelt i Hovemoen |
+
+### Juni
+| Dag     | Dato | Program                         |
+| ---     | ---  | ---                             |
+| Torsdag | 1    | Norgesfelt                      |
+| Torsdag | 8    | Norgesfelt                      |
+| Torsdag | 15   | Norgesfelt                      |
+| Torsdag | 22   | Norgesfelt                      |
+| Torsdag | 29   | Norgesfelt                      |
+
+### Juli
+Ingen skyting.
+
+### August
+| Dag     | Dato | Program                         |
+| ---     | ---  | ---                             |
+| Torsdag | 3    | Norgesfelt                      |
+| Torsdag | 10   | Norgesfelt                      |
+| Torsdag | 17   | Norgesfelt                      |
+| Torsdag | 24   | Norgesfelt                      |
+| Torsdag | 31   | Norgesfelt                      |
 
 ## Offentlige helligdager 2023
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
