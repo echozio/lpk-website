@@ -63,11 +63,11 @@ tocOpen: true
 ### Juni
 | Dag     | Dato | Program                         |
 | ---     | ---  | ---                             |
-| Torsdag | 1    | Norgesfelt                      |
-| Torsdag | 8    | Norgesfelt                      |
-| Torsdag | 15   | Norgesfelt                      |
-| Torsdag | 22   | Norgesfelt                      |
-| Torsdag | 29   | Norgesfelt                      |
+| Torsdag | 1    | Norgesfelt i Hovemoen           |
+| Torsdag | 8    | Norgesfelt i Hovemoen           |
+| Torsdag | 15   | Norgesfelt i Hovemoen           |
+| Torsdag | 22   | Norgesfelt i Hovemoen           |
+| Torsdag | 29   | Norgesfelt i Hovemoen           |
 
 ### Juli
 Ingen skyting.
@@ -75,11 +75,11 @@ Ingen skyting.
 ### August
 | Dag     | Dato | Program                         |
 | ---     | ---  | ---                             |
-| Torsdag | 3    | Norgesfelt                      |
-| Torsdag | 10   | Norgesfelt                      |
-| Torsdag | 17   | Norgesfelt                      |
-| Torsdag | 24   | Norgesfelt                      |
-| Torsdag | 31   | Norgesfelt                      |
+| Torsdag | 3    | Norgesfelt i Hovemoen           |
+| Torsdag | 10   | Norgesfelt i Hovemoen           |
+| Torsdag | 17   | Norgesfelt i Hovemoen           |
+| Torsdag | 24   | Norgesfelt i Hovemoen           |
+| Torsdag | 31   | Norgesfelt i Hovemoen           |
 
 ## Offentlige helligdager 2023
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
