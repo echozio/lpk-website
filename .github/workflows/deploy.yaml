@@ -18,4 +18,4 @@ jobs:
           id_rsa=$(mktemp)
           chmod 600 $id_rsa
           echo "${{ secrets.SSH_KEY }}" > $id_rsa
-          rsync --delete -vre "ssh -i $id_rsa" ./public/ "${{ secrets.SSH_TARGET }}"
+          rsync --delete -vre "ssh -i $id_rsa -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" ./public/ "${{ secrets.SSH_TARGET }}"
