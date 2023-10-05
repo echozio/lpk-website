@@ -81,6 +81,51 @@ Ingen skyting.
 | Torsdag | 24   | Norgesfelt i Hovemoen           |
 | Torsdag | 31   | Norgesfelt i Hovemoen           |
 
+### September
+| Dag     | Dato | Program               |
+| ---     | ---  | ---                   |
+| Torsdag | 7    | Norgesfelt i Hovemoen |
+| Torsdag | 14   | Norgesfelt i Hovemoen |
+| Torsdag | 21   | Norgesfelt i Hovemoen |
+| Torsdag | 28   | Norgesfelt i Hovemoen |
+
+### Oktober
+| Dag     | Dato | Program                  |
+| ---     | ---  | ---                      |
+| Mandag  | 2    | Skivedugnad Fåberg / fri |
+| Torsdag | 5    | VC VM                    |
+| Mandag  | 9    | Trening standard         |
+| Torsdag | 12   | VC standard              |
+| Mandag  | 16   | Trening hurtig           |
+| Torsdag | 19   | VC Hurtig                |
+| Mandag  | 23   | Trening feltskyting      |
+| Torsdag | 26   | VC revolvercup           |
+| Mandag  | 30   | Trening VM / fri         |
+
+### November
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Torsdag | 2    | KM / VC VM          |
+| Mandag  | 6    | Trening feltskyting |
+| Torsdag | 9    | VC standard         |
+| Mandag  | 13   | Trening hurtig      |
+| Torsdag | 16   | KM / VC hurtig      |
+| Mandag  | 20   | Trening revolvercup |
+| Torsdag | 23   | VC revolvercup      |
+| Mandag  | 27   | Trening feltskyting |
+| Torsdag | 30   | VC VM               |
+
+### Desember
+| Dag     | Dato | Program                          |
+| ---     | ---  | ---                              |
+| Mandag  | 4    | Trening standard                 |
+| Torsdag | 7    | KM / VC standard                 |
+| Mandag  | 11   | Trening hurtig                   |
+| Torsdag | 14   | VC hurtig                        |
+| Mandag  | 18   | NAIS                             |
+| Torsdag | 21   | Juleskyting (felt)               |
+| Torsdag | 28   | Romjulsskyting (KM revolvercup)  |
+
 ## Offentlige helligdager 2023
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
 
