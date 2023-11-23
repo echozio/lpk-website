@@ -121,9 +121,10 @@ Ingen skyting.
 | Mandag  | 4    | Trening standard                 |
 | Torsdag | 7    | KM / VC standard                 |
 | Mandag  | 11   | Trening hurtig                   |
-| Torsdag | 14   | VC hurtig                        |
+| Torsdag | 14   | Julebord / juleskyting           |
 | Mandag  | 18   | NAIS                             |
-| Torsdag | 21   | Juleskyting (felt)               |
+| Torsdag | 21   | VC hurtig                        |
+| Mandag  | 25   | 1. juledag - ingen skyting       |
 | Torsdag | 28   | Romjulsskyting (KM revolvercup)  |
 
 ## Offentlige helligdager 2023
