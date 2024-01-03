@@ -1,5 +1,5 @@
 ---
-title: Nytt introduksjonskurs (fullt).
+title: Nytt introduksjonskurs (fullt)
 date: 2023-12-06
 ---
 Nytt introduksjonskurs starter søndag 14. januar kl. 14.00 med første skyting mandag 15. januar kl.
