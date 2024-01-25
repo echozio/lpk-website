@@ -4,7 +4,7 @@ title: Priser
 
 |                                                   |           |
 | ---                                               | --:       |
-| Introduksjonskurs                                 | kr 1000,- |
+| Introduksjonskurs inkl. medlemskontingent ut året | kr 1500,- |
 | Halleie pr. kveld                                 | kr 50,-   |
 | Klippekort (dekker halleie for 10 kvelder)        | kr 450,-  |
 | Ammunisjon (50 stk. CCI Standard Velocity .22 LR) | kr 75,-   |
