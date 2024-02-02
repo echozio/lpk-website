@@ -1,5 +1,6 @@
 {{- $place := replaceRE "\\s+" "x" (.Get 0) -}}
 <iframe
+  class="google-maps"
   width="100%"
   height="320"
   frameborder="0" style="border:0"
