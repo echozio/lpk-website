@@ -1,11 +1,16 @@
 .post-content p {
   text-align: justify;
   text-justify: inter-word;
-  word-spacing: -0.0625em;
 }
 
 @media (max-width: 600px) {
   .post-content p {
     hyphens: auto;
   }
+}
+
+.no-justify {
+  text-align: initial;
+  text-justify: none;
+  hyphens: none;
 }

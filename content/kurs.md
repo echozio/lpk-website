@@ -18,5 +18,7 @@ pistolskytter.
 Vi har bestemt at det er 16 års aldersgrense for å ta introduksjonskurset og for å delta på
 skytetrening hos Lillehammer pistolklubb.
 
+{{< no_justify >}}
 Kursene avholdes ved behov, så send oss en e-post på
 [kurs.lillehammerpistolklubb@gmail.com](mailto:kurs.lillehammerpistolklubb@gmail.com).
+{{< /no_justify >}}
