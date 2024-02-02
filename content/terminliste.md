@@ -36,7 +36,7 @@ tocOpen: true
 | Mandag  | 4    | Trening felt                 |
 | Torsdag | 7    | VC standard                  |
 | Mandag  | 11   | Trening hurtig               |
-| Torsdag | 14   | VC hurtig                    |
+| Torsdag | 14   | VC hurtig og årsmøte         |
 | Mandag  | 18   | Trening revolvercup          |
 | Torsdag | 21   | VC revolvercup               |
 | Mandag  | 25   | Trening felt                 |
