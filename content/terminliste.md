@@ -56,9 +56,34 @@ tocOpen: true
 | Mandag  | 29   | Trening hurtig              |
 
 ### Mai
-| Dag     | Dato | Program                         |
-| ---     | ---  | ---                             |
-| Torsdag | 2    | Dugnad i Hovemoen               |
+| Dag     | Dato | Program           |
+| ---     | ---  | ---               |
+| Torsdag | 2    | Dugnad i Hovemoen |
+
+### Juni
+| Dag     | Dato | Program              |
+| ---     | ---  | ---                  |
+| Torsdag | 6    | Sommercup norgesfelt |
+| Torsdag | 13   | Sommercup norgesfelt |
+| Torsdag | 20   | Sommercup norgesfelt |
+| Torsdag | 27   | Sommercup norgesfelt |
+
+### Juli
+| Dag     | Dato | Program              |
+| ---     | ---  | ---                  |
+| Torsdag | 4    | Sommercup norgesfelt |
+| Torsdag | 11   | Sommercup norgesfelt |
+| Torsdag | 18   | Sommercup norgesfelt |
+| Torsdag | 25   | Sommercup norgesfelt |
+
+### August
+| Dag     | Dato | Program              |
+| ---     | ---  | ---                  |
+| Torsdag | 1    | Sommercup norgesfelt |
+| Torsdag | 8    | Sommercup norgesfelt |
+| Torsdag | 15   | Sommercup norgesfelt |
+| Torsdag | 22   | Sommercup norgesfelt |
+| Torsdag | 29   | Sommercup norgesfelt |
 
 ## Offentlige helligdager 2024
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
