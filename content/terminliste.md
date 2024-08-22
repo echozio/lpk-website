@@ -85,6 +85,14 @@ tocOpen: true
 | Torsdag | 22   | Sommercup norgesfelt |
 | Torsdag | 29   | Sommercup norgesfelt |
 
+### September
+| Dag     | Dato | Program              |
+| ---     | ---  | ---                  |
+| Torsdag | 5    | Sommercup norgesfelt |
+| Torsdag | 12   | Sommercup norgesfelt |
+| Torsdag | 19   | Sommercup norgesfelt |
+| Torsdag | 26   | Sommercup norgesfelt |
+
 ## Offentlige helligdager 2024
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
 
