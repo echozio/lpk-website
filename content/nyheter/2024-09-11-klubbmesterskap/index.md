@@ -1,6 +1,6 @@
 ---
 title: Klubbmesterskap feltskyting
-date: 2024-07-04
+date: 2024-09-11
 ---
 
 Vi inviterer til klubbmesterskap i finfelt og revolverfelt på banen i
