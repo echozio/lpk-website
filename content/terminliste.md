@@ -93,6 +93,44 @@ tocOpen: true
 | Torsdag | 19   | Sommercup norgesfelt |
 | Torsdag | 26   | Sommercup norgesfelt |
 
+### Oktober
+| Dag     | Dato | Program                |
+| ---     | ---  | ---                    |
+| Torsdag | 3    | Trening og skivedugnad |
+| Mandag  | 7    | Trening VM             |
+| Torsdag | 10   | VC VM                  |
+| Mandag  | 14   | Trening standard       |
+| Torsdag | 17   | VC standard            |
+| Mandag  | 21   | Trening hurtig         |
+| Torsdag | 24   | VC hurtig (KM)         |
+| Mandag  | 28   | Trening revolvercup    |
+| Torsdag | 31   | VC revolvercup         |
+
+### November
+| Dag     | Dato | Program                |
+| ---     | ---  | ---                    |
+| Mandag  | 4    | Trening innendørsfelt  |
+| Torsdag | 7    | VC innendørsfelt       |
+| Mandag  | 11   | Trening VM             |
+| Torsdag | 14   | VC VM                  |
+| Mandag  | 18   | Trening standard       |
+| Torsdag | 21   | VC standard (KM)       |
+| Mandag  | 25   | Trening hurtig         |
+| Torsdag | 28   | VC hurtig              |
+
+### Desember
+| Dag     | Dato | Program                         |
+| ---     | ---  | ---                             |
+| Mandag  | 2    | Trening revolvercup             |
+| Torsdag | 5    | VC revolvercup                  |
+| Mandag  | 9    | Trening innendørsfelt           |
+| Torsdag | 12   | VC innendørsfelt                |
+| Mandag  | 16   | Trening VM                      |
+| Torsdag | 19   | NAIS                            |
+| Mandag  | 23   | Juleskyting (felt)              |
+| Torsdag | 26   | 2. juledag - ingen skyting      |
+| Mandag  | 30   | Romjulsskyting (KM revolvercup) |
+
 ## Offentlige helligdager 2024
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
 
