@@ -2,7 +2,8 @@
 title: Lenker
 ---
 
-- [Skjema for dokumentasjon av aktivitet](/documents/Aktivitetslogg.pdf)
+- [Skjema for dokumentasjon av aktivitet](/documents/aktivitetslogg.pdf)
+- [Instruks for skytebanen i Hovemoen](/documents/instruks_hovemoen.pdf)
 - [Rubic brukerveiledninger](https://rubic.zendesk.com/hc/no/categories/115000353634-Rubic-Brukere)
 - [Nettstedets kildekode](https://github.com/echozio/lpk-website)
 
