@@ -9,4 +9,4 @@ Vi inviterer til julebord på innendørsbana i Fåberg kl. 18.00 torsdag
 Alle medlemmer er velkomne, og det bes at påmelding gjøres enten via
 [e-post eller facebook](/kontakt/) så vi får ordnet nok mat til alle.
 
-Egenandel er 100 kr. for å dekke mat og baneleie.
+Egenandel er 150 kr. for å dekke mat og baneleie.
