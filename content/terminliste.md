@@ -15,8 +15,8 @@ tocOpen: true
 | Torsdag | 16   | VC hurtig           |
 | Mandag  | 20   | Trening revolvercup |
 | Torsdag | 23   | VC revolvercup      |
-| Mandag  | 27   | Trening felt        |
-| Torsdag | 30   | VC felt             |
+| Mandag  | 27   | Teknikktrening      |
+| Torsdag | 30   | Teknikktrening      |
 
 ### Februar
 | Dag     | Dato | Program             |
@@ -33,8 +33,8 @@ tocOpen: true
 ### Mars
 | Dag     | Dato | Program                      |
 | ---     | ---  | ---                          |
-| Mandag  | 3    | Trening felt                 |
-| Torsdag | 6    | VC felt (KM)                 |
+| Mandag  | 3    | Teknikktrening               |
+| Torsdag | 6    | Teknikktrening               |
 | Mandag  | 10   | Trening VM                   |
 | Torsdag | 13   | VC VM                        |
 | Mandag  | 17   | Trening standard             |
@@ -47,8 +47,8 @@ tocOpen: true
 | Dag     | Dato | Program                      |
 | ---     | ---  | ---                          |
 | Torsdag | 3    | VC revolvercup               |
-| Mandag  | 7    | Trening felt                 |
-| Torsdag | 10   | VC felt                      |
+| Mandag  | 7    | Teknikktrening               |
+| Torsdag | 10   | Teknikktrening               |
 | Mandag  | 14   | Trening VM / fri             |
 | Torsdag | 17   | Skjærtorsdag - ingen skyting |
 | Mandag  | 21   | 2. påskedag - ingen skyting  |
