@@ -18,8 +18,8 @@ parkeringsplass.
 Vi har nå så stor pågang at vi må øke til tre lag på skytedagene. Vi har
 også redusert drop in-plasser til en på første laget og ingen på andre.
 Denne plassen er forbeholdt våre eldste skyttere som er lite digitale,
-så det er ikke tilstrekkelig å komme først. Vi har ikke enda fått inn
-et tredje lag på Rubic, så foreløpig er tredje laget drop in. Veiledende
+så det er ikke tilstrekkelig å komme først. Vi har ikke lagt inn et
+tredje lag på Rubic, så foreløpig er tredje laget drop in. Veiledende
 starttider er kl. 18, 19 og 20. Ved lange programmer kan det bli litt
 ventetid og ved korte programmer starter det på oppgitte tider.
 
