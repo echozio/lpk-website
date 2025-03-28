@@ -1,4 +1,4 @@
-{{- $place := replaceRE "\\s+" "x" (.Get 0) -}}
+{{- $place := replaceRE "\\s+" "+" (.Get 0) -}}
 <iframe
   class="google-maps"
   width="100%"
