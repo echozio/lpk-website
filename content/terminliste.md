@@ -61,6 +61,37 @@ tocOpen: true
 | Torsdag | 1    | Helligdag - ingen skyting |
 | Mandag  | 5    | Dugnad i Hovemoen         |
 
+### Juni
+| Dag     | Dato | Program   |
+| ---     | ---  | ---       |
+| Torsdag | 5    | Norgescup |
+| Torsdag | 12   | Norgescup |
+| Torsdag | 19   | Norgescup |
+| Torsdag | 26   | Norgescup |
+
+### Juli
+| Dag     | Dato | Program   |
+| ---     | ---  | ---       |
+| Torsdag | 3    | Norgescup |
+| Torsdag | 10   | Norgescup |
+| Torsdag | 31   | Norgescup |
+
+### August
+| Dag     | Dato | Program   |
+| ---     | ---  | ---       |
+| Torsdag | 7    | Norgescup |
+| Torsdag | 14   | Norgescup |
+| Torsdag | 21   | Norgescup |
+| Torsdag | 28   | Norgescup |
+
+### September
+| Dag     | Dato | Program   |
+| ---     | ---  | ---       |
+| Torsdag | 4    | Norgescup |
+| Torsdag | 11   | Norgescup |
+| Torsdag | 18   | Norgescup |
+| Torsdag | 25   | Norgescup |
+
 ## Offentlige helligdager 2025
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
 
