@@ -62,18 +62,11 @@ tocOpen: true
 | Mandag  | 5    | Dugnad i Hovemoen         |
 
 ### Juni
-| Dag     | Dato | Program   |
-| ---     | ---  | ---       |
-| Torsdag | 5    | Norgescup |
-| Torsdag | 12   | Norgescup |
-| Torsdag | 19   | Norgescup |
-| Torsdag | 26   | Norgescup |
+Ingen arrangert trening.
 
 ### Juli
 | Dag     | Dato | Program   |
 | ---     | ---  | ---       |
-| Torsdag | 3    | Norgescup |
-| Torsdag | 10   | Norgescup |
 | Torsdag | 31   | Norgescup |
 
 ### August
