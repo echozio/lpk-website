@@ -65,25 +65,25 @@ tocOpen: true
 Ingen arrangert trening.
 
 ### Juli
-| Dag     | Dato | Program   |
-| ---     | ---  | ---       |
-| Torsdag | 31   | Norgescup |
+| Dag     | Dato | Program    |
+| ---     | ---  | ---        |
+| Torsdag | 31   | Norgesfelt |
 
 ### August
-| Dag     | Dato | Program   |
-| ---     | ---  | ---       |
-| Torsdag | 7    | Norgescup |
-| Torsdag | 14   | Norgescup |
-| Torsdag | 21   | Norgescup |
-| Torsdag | 28   | Norgescup |
+| Dag     | Dato | Program    |
+| ---     | ---  | ---        |
+| Torsdag | 7    | Norgesfelt |
+| Torsdag | 14   | Norgesfelt |
+| Torsdag | 21   | Norgesfelt |
+| Torsdag | 28   | Norgesfelt |
 
 ### September
-| Dag     | Dato | Program   |
-| ---     | ---  | ---       |
-| Torsdag | 4    | Norgescup |
-| Torsdag | 11   | Norgescup |
-| Torsdag | 18   | Norgescup |
-| Torsdag | 25   | Norgescup |
+| Dag     | Dato | Program    |
+| ---     | ---  | ---        |
+| Torsdag | 4    | Norgesfelt |
+| Torsdag | 11   | Norgesfelt |
+| Torsdag | 18   | Norgesfelt |
+| Torsdag | 25   | Norgesfelt |
 
 ## Offentlige helligdager 2025
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
