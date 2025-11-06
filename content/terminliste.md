@@ -85,6 +85,85 @@ Ingen arrangert trening.
 | Torsdag | 18   | Norgesfelt |
 | Torsdag | 25   | Norgesfelt |
 
+### Oktober
+Teknikktrening i hovemoen hver torsdag mens vi venter på oppussing av
+skytehallen i Fåberg.
+
+### November
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Mandag  | 10   | Fri (trening)       |
+| Torsdag | 13   | VC revolvercup      |
+| Mandag  | 17   | Fri (trening)       |
+| Torsdag | 20   | VC hurtig           |
+| Mandag  | 24   | Fri (trening)       |
+| Torsdag | 27   | VC standard         |
+
+### Desember
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Mandag  | 1    | Fri (trening)       |
+| Torsdag | 4    | VC VM               |
+| Mandag  | 8    | Fri (trening)       |
+| Torsdag | 11   | VC revolvercup      |
+| Mandag  | 15   | Fri (trening)       |
+| Torsdag | 18   | Julebord            |
+| Mandag  | 22   | Fri (trening)       |
+| Torsdag | 25   | Ingen skyting       |
+| Mandag  | 29   | KM revolvercup      |
+
+## 2026
+### Januar
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Torsdag | 1    | Ingen skyting       |
+| Mandag  | 5    | Fri (trening)       |
+| Torsdag | 8    | VC hurtig           |
+| Mandag  | 12   | Fri (trening)       |
+| Torsdag | 15   | VC standard         |
+| Mandag  | 19   | Fri (trening)       |
+| Torsdag | 22   | VC VM               |
+| Mandag  | 26   | Fri (trening)       |
+| Torsdag | 29   | VC revolvercup      |
+
+### Februar
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Mandag  | 2    | Fri (trening)       |
+| Torsdag | 5    | VC hurtig           |
+| Mandag  | 9    | Fri (trening)       |
+| Torsdag | 12   | VC standard         |
+| Mandag  | 16   | Fri (trening)       |
+| Torsdag | 19   | VC VM               |
+| Mandag  | 23   | Fri (trening)       |
+| Torsdag | 26   | VC revolvercup      |
+
+### Mars
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Mandag  | 2    | Fri (trening)       |
+| Torsdag | 5    | VC hurtig           |
+| Mandag  | 9    | Fri (trening)       |
+| Torsdag | 12   | VC standard         |
+| Mandag  | 16   | Fri (trening)       |
+| Torsdag | 19   | VC VM               |
+| Mandag  | 23   | Fri (trening)       |
+| Torsdag | 26   | VC revolvercup      |
+| Mandag  | 30   | Fri (trening)       |
+
+### April
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Torsdag | 2    | Ingen skyting       |
+| Mandag  | 6    | Ingen skyting       |
+| Torsdag | 9    | VC hurtig           |
+| Mandag  | 13   | Fri (trening)       |
+| Torsdag | 16   | VC standard         |
+| Mandag  | 20   | Fri (trening)       |
+| Torsdag | 23   | VC VM               |
+| Mandag  | 27   | Fri (trening)       |
+| Torsdag | 30   | VC revolvercup      |
+
 ## Offentlige helligdager 2025
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
 
