@@ -11,8 +11,8 @@ tocOpen: true
 | Torsdag | 2    | VC VM               |
 | Mandag  | 6    | Trening standard    |
 | Torsdag | 9    | VC standard         |
-| Mandag  | 13   | Trening hurtig      |
-| Torsdag | 16   | VC hurtig           |
+| Mandag  | 13   | Ingen skyting       |
+| Torsdag | 16   | Ingen skyting       |
 | Mandag  | 20   | Trening revolvercup |
 | Torsdag | 23   | VC revolvercup      |
 | Mandag  | 27   | Teknikktrening      |
