@@ -11,4 +11,6 @@ Postboks 236<br/>
 [lillehammerpistolklubb@gmail.com](mailto:lillehammerpistolklubb@gmail.com)
 
 ## Facebook
-[Vår offentlige informasjonsside på Facebook finner du her](https://www.facebook.com/groups/247933992318641).
+[Vår lukkede Facebook-gruppe finner du her](https://www.facebook.com/groups/388619434553226).
+
+Alle betalende medlemmer får tilgang til denne.
