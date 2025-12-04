@@ -105,9 +105,9 @@ skytehallen i Fåberg.
 | Mandag  | 1    | Fri (trening)       |
 | Torsdag | 4    | VC VM               |
 | Mandag  | 8    | Fri (trening)       |
-| Torsdag | 11   | VC revolvercup      |
+| Torsdag | 11   | Julebord            |
 | Mandag  | 15   | Fri (trening)       |
-| Torsdag | 18   | Julebord            |
+| Torsdag | 18   | VC revolvercup      |
 | Mandag  | 22   | Fri (trening)       |
 | Torsdag | 25   | Ingen skyting       |
 | Mandag  | 29   | KM revolvercup      |
