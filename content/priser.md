@@ -11,3 +11,5 @@ title: Priser
 | Medlemskontingent pr. år                          | kr 950,-  |
 
 Bruk av utendørsbanen i Hovemoen er kostnadsfritt for alle våre medlemmer.
+
+Nummeret til vår Vippsbutikk er 944208.
