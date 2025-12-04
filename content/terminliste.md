@@ -119,12 +119,14 @@ skytehallen i Fåberg.
 | Torsdag | 1    | Ingen skyting       |
 | Mandag  | 5    | Fri (trening)       |
 | Torsdag | 8    | VC hurtig           |
-| Mandag  | 12   | Fri (trening)       |
-| Torsdag | 15   | VC standard         |
+| Mandag  | 12   | Ingen skyting*      |
+| Torsdag | 15   | Ingen skyting*      |
 | Mandag  | 19   | Fri (trening)       |
 | Torsdag | 22   | VC VM               |
 | Mandag  | 26   | Fri (trening)       |
 | Torsdag | 29   | VC revolvercup      |
+
+\*Grunnet landsskytterstevnet innendørs.
 
 ### Februar
 | Dag     | Dato | Program             |
