@@ -126,7 +126,7 @@ skytehallen i Fåberg.
 | Mandag  | 26   | Fri (trening)       |
 | Torsdag | 29   | VC revolvercup      |
 
-\*Grunnet landsskytterstevnet innendørs.
+**\*Grunnet landsskytterstevnet innendørs.**
 
 ### Februar
 | Dag     | Dato | Program             |
