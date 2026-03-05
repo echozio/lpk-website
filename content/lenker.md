@@ -2,7 +2,7 @@
 title: Lenker
 ---
 
-* [Skjema for dokumentasjon av aktivitet](www.politiet.no/globalassets/tjenester-admin/vapen/aktivitetslogg-for-vapensoknad---trening-og-klubbstevner.pdf)
+* [Skjema for dokumentasjon av aktivitet](https://www.politiet.no/globalassets/tjenester-admin/vapen/aktivitetslogg-for-vapensoknad---trening-og-klubbstevner.pdf)
 * [Instruks for skytebanen i Hovemoen](/documents/instruks_hovemoen.pdf)
 * [Oversikt over pistolstevner](https://www.skyting.no/pistol/terminliste-pistol-2/)
 * [Rubic brukerveiledninger](https://rubic.zendesk.com/hc/no/categories/115000353634-Rubic-Brukere)
