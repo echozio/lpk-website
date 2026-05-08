@@ -1,0 +1,10 @@
+.md-content table th,
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+    border: none;
+    border-bottom: 1px solid var(--border);
+    padding: 10px 16px;
+}
+
+.md-content table thead:not(:has(th:not(:empty))) {
+    display: none;
+}
