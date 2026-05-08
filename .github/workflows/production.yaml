@@ -1,4 +1,4 @@
-name: Deploy website
+name: Production
 
 on:
   push:
@@ -6,15 +6,20 @@ on:
       - master
 
 jobs:
-  build:
+  build-deploy:
+    name: Build and deploy
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - name: checkout
+        uses: actions/checkout@v6
         with:
           submodules: true
-      - uses: cachix/install-nix-action@v31
-      - run: nix build
-      - run: |
+      - name: install nix
+        uses: cachix/install-nix-action@v31
+      - name: build
+        run: nix build
+      - name: deploy
+        run: |
           set -e
           id_rsa=$(mktemp)
           chmod 600 $id_rsa
