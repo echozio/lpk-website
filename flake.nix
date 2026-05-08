@@ -1,5 +1,6 @@
 {
   inputs.nixpkgs.url = "nixpkgs/nixos-unstable";
+  inputs.self.submodules = true;
 
   outputs =
     { nixpkgs, ... }:
@@ -17,6 +18,23 @@
       forAllSystems = f: lib.genAttrs systems (system: f (argsFor system));
     in
     {
+      packages = forAllSystems (
+        { pkgs, ... }:
+        {
+          default = pkgs.stdenv.mkDerivation {
+            name = "lpk-website";
+            src = ./.;
+            nativeBuildInputs = [ pkgs.hugo ];
+            buildPhase = ''
+              runHook preBuild
+              hugo --minify --gc --destination $out
+              runHook postBuild
+            '';
+            dontInstall = true;
+          };
+        }
+      );
+
       devShells = forAllSystems (
         { pkgs, ... }:
         {
