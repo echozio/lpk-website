@@ -10,15 +10,15 @@ jobs:
     name: Build and deploy
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: Checkout
         uses: actions/checkout@v6
         with:
           submodules: true
-      - name: install nix
+      - name: Install nix
         uses: cachix/install-nix-action@v31
-      - name: build
+      - name: Build
         run: nix build
-      - name: deploy
+      - name: Deploy
         run: |
           set -e
           id_rsa=$(mktemp)
