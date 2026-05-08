@@ -23,6 +23,9 @@
           default = pkgs.mkShell {
             packages = with pkgs; [
               hugo
+              (pkgs.writeShellScriptBin "dev" ''
+                hugo serve
+              '')
             ];
           };
         }

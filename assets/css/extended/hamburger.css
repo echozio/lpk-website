@@ -1,3 +1,15 @@
+@media (max-width: 420px) {
+  .header .logo a {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 340px) {
+  .header .logo a {
+    font-size: 0;
+  }
+}
+
 .header #menu-button {
   display: none;
 }
@@ -70,7 +82,7 @@
     align-items: end;
     position: absolute;
     top: var(--header-height);
-    right: 0px;
+    right: var(--gap);
     background: var(--entry);
     border-radius: var(--radius);
     z-index: 2;
@@ -88,16 +100,12 @@
 
   .header #menu li {
     line-height: initial;
-    margin-inline-end: var(--gap);
+    margin-inline: var(--gap);
     margin-top: var(--gap);
   }
 
   .header #menu li:last-child{
     margin-bottom: var(--gap);
-  }
-
-  .header #menu li:last {
-    margin: var(--gap);
   }
 
   .header #menu-button:checked ~ #menu-icon span {
