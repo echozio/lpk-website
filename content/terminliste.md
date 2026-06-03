@@ -58,6 +58,42 @@ tocOpen: true
 | Mandag  | 27   | Fri (trening)       |
 | Torsdag | 30   | VC VM               |
 
+### Mai
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Torsdag | 21   | Norgescup           |
+| Torsdag | 28   | Norgescup           |
+
+### Juni
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Torsdag | 4    | Norgescup           |
+| Torsdag | 11   | Norgescup           |
+| Torsdag | 18   | Norgescup           |
+| Torsdag | 25   | Norgescup           |
+
+### Juli
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Torsdag | 2    | Norgescup           |
+| Torsdag | 9    | Norgescup           |
+
+### August
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Torsdag | 6    | Norgescup           |
+| Torsdag | 13   | Norgescup           |
+| Torsdag | 20   | Norgescup           |
+| Torsdag | 27   | Norgescup           |
+
+### September
+| Dag     | Dato | Program             |
+| ---     | ---  | ---                 |
+| Torsdag | 3    | Norgescup           |
+| Torsdag | 10   | Norgescup           |
+| Torsdag | 17   | Norgescup           |
+| Torsdag | 24   | Norgescup           |
+
 ## Offentlige helligdager 2026
 På disse dagene skal det ikke skytes på utebanen i Hovemoen:
 
