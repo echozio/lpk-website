@@ -24,5 +24,5 @@ jobs:
           id_rsa=$(mktemp)
           chmod 600 $id_rsa
           echo "${{ secrets.SSH_KEY }}" > $id_rsa
-          rsync --delete --chmod=D755,F644 -vrLe "ssh -i $id_rsa -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" ./result/ "${{ secrets.SSH_TARGET }}:${{ secrets.SSH_WEBROOT }}"
+          rsync --delete --no-perms --no-owner --no-group -vrLe "ssh -i $id_rsa -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" ./result/ "${{ secrets.SSH_TARGET }}:${{ secrets.SSH_WEBROOT }}"
           ssh -i $id_rsa -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null "${{ secrets.SSH_TARGET }}" cache-purge
